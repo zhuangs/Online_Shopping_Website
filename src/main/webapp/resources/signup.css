@@ -1,0 +1,23 @@
+body{
+	background-image: url("images/dating.png");
+
+	background-size: 100% 120%;
+    background-repeat: no-repeat;
+
+}
+
+#login{
+	margin-top: 15px;
+	padding-left: 300px;
+}
+
+#signup button{
+	width:100%;
+}
+
+#title{
+	padding-left: 150px;
+
+	font-family: "Macquarie Heavy";
+	color:white;
+}

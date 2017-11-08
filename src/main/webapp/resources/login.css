@@ -1,0 +1,40 @@
+body{
+	background-image: url("images/o-ONLINE-DATING-facebook.png");
+	background-size: 100% 200%;
+    background-repeat: no-repeat;
+    
+}
+
+#signUp{
+	
+	margin-top: 15px;
+	padding-left: 300px;
+}
+
+#title{
+	
+	margin-top: 10%;
+	padding-left: 100px;
+	font-family: "Macquarie Heavy";
+	font-size: 150%;
+	font-weight: bold;
+	color: white;
+}
+
+#form{
+	
+	border-radius: 0px;
+}
+
+#form input{
+	width: 80%;
+	margin-left: 10%;
+}
+
+#login{
+	
+}
+#login button{
+	width:80%;
+	margin-left: 10%;
+}

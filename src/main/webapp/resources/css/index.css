@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+body{
+	margin-left:10%;
+	margin-right:10%;
+}
+h1{
+	text-align: center;
+	margin-top:20px;
+}
+.categoryMenu{
+	float:left;
+	margin-left:20%;
+}
+.content{
+	float: left;
+}
+#viewDetailButton{
+	width:60px;
+	height:20px;
+	font-size:12px;
+	padding-left:0px;
+	padding-top:0px;
+}
